@@ -1,4 +1,4 @@
-package com.custom.CachingServer;
+package com.custom.cachingServer;
 
 public class CacheManager {
     /* This is the HashMap that contains all objects in the cache. */

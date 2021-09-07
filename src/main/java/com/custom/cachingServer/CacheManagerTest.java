@@ -1,4 +1,4 @@
-package com.custom.CachingServer;
+package com.custom.cachingServer;
 
 public class CacheManagerTest {
     public CacheManagerTest() {
